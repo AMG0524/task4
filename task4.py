@@ -1,0 +1,7 @@
+print("4th program")
+print(13.42, 42.13)
+print(int(13.42))
+print(int(42.13))
+print(int((13.42-int(13.42))*100))
+print(int((42.13-int(42.13))*100))
+print((int(13.42))==int((42.13-int(42.13))*100) or int(42.13)==int((42.13-int(42.13))*100))
